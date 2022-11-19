@@ -1,6 +1,6 @@
 ## Assignment Part-1
 Q1. Why do we call Python as a general purpose and high-level programming language?
-Ans: As python is a human readable langauge, that's why we call pyhton as high level language and it is called general purpose language as it is being used in many domains such as AI, Web Dev, Data Engineering, Data Analysis etc.
+Ans: As python is a human readable langauge, that's why we call pyhton as high level language and it is called general purpose language as it is being used in many domains such as AI, Web Dev, Data Engineering, Data Analysis etc..
 
 Q2. Why is Python called a dynamically typed language?
 Ans: Python is a dynamically typed language as we don't have to declare the type of variable while assigning a value to a variable.
